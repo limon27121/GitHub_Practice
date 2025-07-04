@@ -1,3 +1,4 @@
 hello people
 here is the file02
 ready for added
+check for git diff
