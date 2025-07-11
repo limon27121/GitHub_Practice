@@ -2,3 +2,4 @@ hello people
 here is the file02
 ready for added
 check for git diff
+i create feature1 branch to practice the branch
