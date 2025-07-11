@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello i used this for  3 way merge 
 hello
 hello
 ok
+=======
+it will create for 3 way merge in feature1 branch
+>>>>>>> feature1
